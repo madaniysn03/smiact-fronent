@@ -3,6 +3,8 @@ const { i18n } = require('./next-i18next.config');
 
 const nextConfig = {
   // output: 'export',
+  // Serveur autonome minimal pour l'image Docker (ignoré par Vercel).
+  output: 'standalone',
   reactStrictMode: true,
   images: {
     domains: ['localhost'],

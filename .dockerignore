@@ -1,0 +1,10 @@
+.git
+.github
+.husky
+.next
+node_modules
+.env
+.env*.local
+build_output*.txt
+eslint_report*.txt
+Dockerfile
