@@ -78,7 +78,7 @@ const Footer = () => {
     >
       {(!isFooterItemsEven || mdScreen) && (
         <Box sx={{ marginBottom: 2 }}>
-          <Logo id="responsive-footer-logo" />
+          <Logo id="responsive-footer-logo" sx={{ color: 'common.white' }} />
         </Box>
       )}
       <Box sx={{ display: 'flex', marginBottom: { xs: 0, md: 1.7 } }}>
@@ -166,7 +166,7 @@ const Footer = () => {
                 paddingX: 4,
               }}
             >
-              <Logo id="footer-logo" />
+              <Logo id="footer-logo" sx={{ color: 'common.white' }} />
             </Box>
             <List
               sx={{

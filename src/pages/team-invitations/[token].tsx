@@ -146,7 +146,7 @@ const TeamInvitationPage = () => {
               <UserAvatar user={invitation.ambassador.user} size="large" />
               <Box>
                 <Typography variant="subtitle1" fontWeight="bold">
-                  {invitation.ambassador.teamName || 'SMIA Ambassador Team'}
+                  {invitation.ambassador.teamName || 'SMIACT Ambassador Team'}
                 </Typography>
                 <Typography variant="body2" color="text.secondary">
                   {t('user:invited_by') || 'Invited by'}: {invitation.ambassador.user.name}

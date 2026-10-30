@@ -1,0 +1,255 @@
+{
+  "meta": {
+    "title": "SMIACT — De l’intelligence à l’impact",
+    "description": "SMIACT réunit intelligence média, talents créatifs, gestion de projets et mesure d’impact au sein d’une plateforme ambitieuse."
+  },
+  "nav": {
+    "home": "Accueil SMIACT",
+    "platform": "Plateforme",
+    "audiences": "Entreprises et créateurs",
+    "workflow": "Workflow",
+    "intelligence": "Intelligence",
+    "foundation": "Nos fondations",
+    "faq": "FAQ",
+    "login": "Connexion",
+    "explore": "Découvrir la plateforme",
+    "menu": "Afficher ou masquer la navigation",
+    "language": "Langue"
+  },
+  "hero": {
+    "eyebrow": "Intelligence média × opérations créatives × expertise humaine",
+    "titleLine1": "De l’intelligence",
+    "titleLine2": "à ",
+    "titleAccent": "l’impact.",
+    "lead": "Identifiez ce qui compte. Entrez en relation avec des talents d’exception. Planifiez, produisez et livrez vos contenus créatifs, au sein d’un même écosystème média.",
+    "forCompanies": "Pour les entreprises",
+    "forCreators": "Pour les créateurs",
+    "micro": "Une vision connectée : Intelligence → Talents → Production → Diffusion → Mesure",
+    "panelLabel": "SMIACT / VISION DE LA PLATEFORME",
+    "listen": {
+      "cap": "01 / Écouter",
+      "title": "Comprendre le récit.",
+      "text": "Suivez les récits, les sujets et les signaux médias.",
+      "chip": "Vision intelligence"
+    },
+    "create": {
+      "cap": "02 / Créer",
+      "title": "Passer de l’idée à la production.",
+      "text": "Rédigez vos briefs, découvrez des créateurs, gérez les propositions, coordonnez les tâches et validez les livrables.",
+      "chips": ["Workflow existant", "Studio de projet", "Réseau de créateurs"]
+    },
+    "learn": {
+      "cap": "03 / Apprendre",
+      "title": "Mesurer l’impact.",
+      "text": "Reliez demain la couverture médiatique et les analyses de performance à vos décisions.",
+      "chip": "Aperçu illustratif"
+    }
+  },
+  "platform": {
+    "eyebrow": "La plateforme",
+    "title": "Tout ce dont vos opérations média ont besoin. Enfin connecté.",
+    "sub": "Trop d’outils déconnectés. Trop d’intermédiaires. Pas assez de visibilité. SMIACT réunit les talents créatifs et l’exécution des projets dans un seul espace de travail, avec une feuille de route ambitieuse pour l’intelligence et la mesure assistées par IA.",
+    "cards": [
+      {
+        "title": "Comprendre le paysage",
+        "text": "Écoute média, analyse des récits et signaux stratégiques envisagés pour éclairer vos décisions.",
+        "status": "Module d’intelligence prévu",
+        "planned": true
+      },
+      {
+        "title": "Constituer votre équipe créative",
+        "text": "Trouvez des talents selon leurs compétences, leurs langues, leur expérience et leur disponibilité. Invitez des créateurs et examinez leurs propositions.",
+        "status": "Disponible sur la plateforme"
+      },
+      {
+        "title": "Orchestrer la livraison",
+        "text": "Gérez projets, budgets, tâches, retours, fichiers, autorisations et validations dans un studio partagé.",
+        "status": "Disponible sur la plateforme"
+      }
+    ]
+  },
+  "audiences": {
+    "eyebrow": "Pensé pour les deux côtés du travail créatif",
+    "title": "Mieux travailler, ensemble.",
+    "sub": "Deux expériences. Un même environnement de production.",
+    "switchLabel": "Choisir une expérience",
+    "company": {
+      "tab": "Pour les entreprises",
+      "tag": "Pour les entreprises et les institutions",
+      "title": "Du brief à la réussite.",
+      "text": "Constituez la bonne équipe, gardez chaque projet sur les rails et apportez de la clarté à vos opérations créatives.",
+      "items": [
+        "Trouvez des talents selon leurs compétences, leur disponibilité et leur expérience",
+        "Invitez des créateurs et comparez leurs propositions",
+        "Suivez les budgets, les tâches et les jalons du projet",
+        "Examinez et validez les livrables finaux",
+        "À venir : briefs par IA, recommandations et rapports d’impact"
+      ],
+      "cta": "Découvrir l’expérience entreprise"
+    },
+    "creator": {
+      "tab": "Pour les créateurs",
+      "tag": "Pour les créateurs et les professionnels des médias",
+      "title": "Votre talent mérite une plus grande scène.",
+      "text": "Mettez en avant votre expertise, trouvez des projets et créez dans un espace de travail d’équipe professionnel.",
+      "items": [
+        "Créez un profil avec vos compétences, vos langues et votre portfolio",
+        "Parcourez les opportunités et recevez des invitations",
+        "Soumettez des propositions et collaborez avec les clients",
+        "Gérez les tâches, les fichiers et les retours de production",
+        "À venir : propositions assistées par IA et workflows pour les créateurs"
+      ],
+      "cta": "Découvrir l’expérience créateur"
+    },
+    "workspace": {
+      "eyebrow": "Un espace de travail connecté",
+      "rows": [
+        { "label": "Brief du projet", "value": "Prêt" },
+        { "label": "Recherche de créateurs", "value": "En cours" },
+        { "label": "Propositions", "value": "À examiner" },
+        { "label": "Tâches de production", "value": "Actives" },
+        { "label": "Validation des livrables", "value": "À venir" }
+      ],
+      "note": "Parcours de projet illustratif, sans données de compte réelles."
+    }
+  },
+  "workflow": {
+    "eyebrow": "Comment fonctionne SMIACT",
+    "titleLine1": "Un seul workflow connecté.",
+    "titleAccent": "Du signal à l’impact.",
+    "sub": "Une vision complète construite autour d’un socle opérationnel de collaboration sur les projets. Les libellés distinguent les fonctionnalités existantes des modules prévus.",
+    "current": "ACTUEL",
+    "vision": "VISION",
+    "steps": [
+      { "title": "Écouter et comprendre", "text": "Suivez les sujets, les récits et les signaux médias.", "vision": true },
+      { "title": "Planifier et briefer", "text": "Définissez les objectifs, les budgets, les dates et les livrables." },
+      { "title": "Découvrir et recruter", "text": "Trouvez des créateurs, invitez des talents, comparez les propositions." },
+      { "title": "Produire ensemble", "text": "Collaborez avec les tâches, les mises à jour, les fichiers et le chat." },
+      { "title": "Examiner et valider", "text": "Donnez vos retours et validez les livrables de contenu." },
+      { "title": "Diffuser et amplifier", "text": "Prolongez le travail sur les canaux médias et ceux des créateurs.", "vision": true },
+      { "title": "Mesurer et optimiser", "text": "Reliez la couverture, les réactions et les enseignements des campagnes.", "vision": true }
+    ]
+  },
+  "intelligence": {
+    "eyebrow": "Moteur d’intelligence média / vision produit",
+    "titleLine1": "Ne vous contentez pas de suivre la conversation.",
+    "titleLine2": "Comprenez ce qui la fait bouger.",
+    "sub": "Le moteur d’intelligence SMIACT envisagé doit transformer des informations médias fragmentées en connaissances stratégiques exploitables, avec la vérification humaine au centre.",
+    "cards": [
+      { "title": "Écoute média", "text": "Suivez la couverture, les sources, les sujets et les mentions de marque pertinents." },
+      { "title": "Analyse des récits par IA", "text": "Résumez les évolutions, regroupez les thèmes et faites ressortir les enjeux émergents." },
+      { "title": "Signaux et alertes", "text": "Repérez les changements importants et prenez vos décisions de communication au bon moment." },
+      { "title": "Tonalité et contexte", "text": "Explorez les tendances de ton et de discussion, avec un accès transparent aux sources." },
+      { "title": "Intelligence de campagne", "text": "Reliez vos initiatives de contenu à la couverture médiatique et aux réactions du public." },
+      { "title": "Rapports intelligents", "text": "Produisez des synthèses et des recommandations pour vos équipes et vos parties prenantes." }
+    ],
+    "notice": "Vision produit : ces fonctions d’intelligence font partie de la feuille de route de SMIACT et ne sont pas encore disponibles."
+  },
+  "concept": {
+    "eyebrow": "Concept interactif",
+    "titleLine1": "D’un signal média",
+    "titleLine2": "à un brief créatif.",
+    "sub": "Essayez un sujet d’exemple pour voir comment pourrait s’organiser le futur parcours, de l’intelligence à la production. Il s’agit d’une démonstration statique, sans veille média réelle ni résultat généré par IA.",
+    "topicLabel": "Choisissez un sujet de veille d’exemple",
+    "topicRow": "Sujet",
+    "narrativeRow": "Récit émergent",
+    "audienceRow": "Public suggéré",
+    "contentRow": "Contenu suggéré",
+    "briefEyebrow": "Brief créatif suggéré / maquette",
+    "chipReview": "Relecture éditoriale requise",
+    "chipHuman": "Production pilotée par l’humain",
+    "micro": "Les exemples affichés sont rédigés à l’avance pour ce prototype.",
+    "cta": "Voir le workflow de production",
+    "topics": [
+      {
+        "key": "tourism",
+        "name": "Tourisme durable",
+        "narrative": "Expériences locales authentiques",
+        "audience": "Publics voyage et culture",
+        "content": "Court documentaire",
+        "briefTitle": "Racontez les histoires derrière le voyage durable.",
+        "briefBody": "Commandez une série de courts documentaires avec des conteurs locaux, accompagnée d’interviews et de formats courts pour les réseaux sociaux."
+      },
+      {
+        "key": "tech",
+        "name": "IA et compétences numériques",
+        "narrative": "Transformation du travail",
+        "audience": "Publics technologie et éducation",
+        "content": "Série d’interviews d’experts",
+        "briefTitle": "Donnez un visage humain à la transformation numérique.",
+        "briefBody": "Développez une série d’interviews avec des enseignants, des fondateurs et des professionnels qui acquièrent des compétences concrètes en IA."
+      },
+      {
+        "key": "culture",
+        "name": "Économie créative",
+        "narrative": "Essor des créateurs indépendants",
+        "audience": "Publics culture et entreprises",
+        "content": "Série de portraits de créateurs",
+        "briefTitle": "Mettez les talents créatifs à l’honneur.",
+        "briefBody": "Créez une campagne éditoriale consacrée aux créateurs indépendants et à la valeur culturelle de leur travail."
+      }
+    ]
+  },
+  "foundation": {
+    "eyebrow": "Nos fondations",
+    "titleLine1": "Bâti sur l’expérience.",
+    "titleAccent": "Pensé pour la suite.",
+    "sub": "SMIACT s’appuie sur une expérience de l’innovation média, du journalisme collaboratif, de l’apprentissage numérique et de l’accompagnement des créateurs. Cette expérience nourrit une nouvelle vision des opérations créatives et médias connectées.",
+    "cards": [
+      { "title": "Innovation média", "text": "Une expérience au service d’un journalisme et d’une collaboration média portés par la technologie." },
+      { "title": "Accompagnement des créateurs", "text": "Un socle pour développer les compétences et les opportunités des professionnels du numérique." },
+      { "title": "Perspective internationale", "text": "L’ambition de relier talents, organisations et projets créatifs à travers les marchés." }
+    ]
+  },
+  "faq": {
+    "eyebrow": "Vos questions, nos réponses",
+    "title": "Découvrez SMIACT.",
+    "items": [
+      {
+        "q": "Qu’est-ce que SMIACT ?",
+        "a": "Une plateforme qui relie les organisations et les talents créatifs autour du brief de projet, du recrutement, de la collaboration et de la validation des livrables, avec une vision plus large d’intelligence et de mesure média assistées par IA."
+      },
+      {
+        "q": "Que peuvent faire les entreprises aujourd’hui ?",
+        "a": "Les entreprises peuvent créer des projets, découvrir des créateurs, inviter des candidats, examiner des propositions, coordonner le travail et valider les livrables."
+      },
+      {
+        "q": "Que peuvent faire les créateurs ?",
+        "a": "Les créateurs peuvent gérer leur profil professionnel, parcourir les projets, répondre aux invitations, soumettre des propositions et travailler dans les studios de projet."
+      },
+      {
+        "q": "Le moteur de veille média par IA est-il déjà disponible ?",
+        "a": "Pas encore. Le moteur de veille et d’intelligence fait partie de la vision produit présentée sur cette page."
+      },
+      {
+        "q": "Quel est le rôle des ambassadeurs ?",
+        "a": "Les ambassadeurs peuvent coordonner des équipes de créateurs et lancer des projets."
+      },
+      {
+        "q": "SMIACT est-il disponible à l’international ?",
+        "a": "SMIACT est conçu en pensant à un public international."
+      }
+    ]
+  },
+  "cta": {
+    "eyebrow": "La nouvelle génération d’infrastructure média",
+    "titleLine1": "L’intelligence crée l’opportunité.",
+    "titleLine2": "Les humains créent l’impact.",
+    "text": "Réunissez les bonnes personnes, les bons projets et les bonnes analyses, et construisez la suite.",
+    "primary": "Découvrir SMIACT",
+    "secondary": "Explorer la plateforme"
+  },
+  "footer": {
+    "tagline": "De l’intelligence à l’impact. Un avenir connecté pour les médias et le travail créatif.",
+    "platform": "Plateforme",
+    "forCompanies": "Pour les entreprises",
+    "forCreators": "Pour les créateurs",
+    "howItWorks": "Comment ça marche",
+    "intelligence": "Intelligence média",
+    "company": "Entreprise",
+    "foundation": "Nos fondations",
+    "faq": "FAQ",
+    "login": "Connexion",
+    "rights": "Tous droits réservés."
+  }
+}

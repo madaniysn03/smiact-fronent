@@ -1,8 +1,6 @@
 import { forwardRef } from 'react';
 // @mui
 import { Box, BoxProps } from '@mui/material';
-import Image from 'next/image';
-import SMIAFRICA from '@common/assets/images/logo.png';
 
 interface LogoProps extends BoxProps {
   disabledLink?: boolean;
@@ -76,8 +74,21 @@ const Logo = forwardRef<HTMLDivElement, LogoProps>(
     // );
 
     const logo = (
-      <Box sx={{ pb: 1, ...sx }} onClick={onClick} {...other}>
-        <Image src={SMIAFRICA} alt="smiafrica" width={120} height={30} />
+      <Box sx={{ pb: 1, color: '#0e1613', ...sx }} onClick={onClick} {...other}>
+        <Box
+          component="span"
+          sx={{
+            fontWeight: 800,
+            fontSize: 24,
+            lineHeight: '30px',
+            letterSpacing: '-1.6px',
+          }}
+        >
+          SMIACT
+          <Box component="span" aria-hidden sx={{ color: '#8fbf2f' }}>
+            ●
+          </Box>
+        </Box>
       </Box>
     );
 

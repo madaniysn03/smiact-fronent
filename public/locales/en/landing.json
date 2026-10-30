@@ -1,0 +1,255 @@
+{
+  "meta": {
+    "title": "SMIACT — From Intelligence to Impact",
+    "description": "SMIACT connects media intelligence, creative talent, project workflows and impact measurement in one ambitious platform."
+  },
+  "nav": {
+    "home": "SMIACT home",
+    "platform": "Platform",
+    "audiences": "Companies & creators",
+    "workflow": "Workflow",
+    "intelligence": "Intelligence",
+    "foundation": "Our foundation",
+    "faq": "FAQ",
+    "login": "Log in",
+    "explore": "Explore platform",
+    "menu": "Toggle navigation",
+    "language": "Language"
+  },
+  "hero": {
+    "eyebrow": "Media intelligence × creative operations × human expertise",
+    "titleLine1": "From intelligence",
+    "titleLine2": "to ",
+    "titleAccent": "impact.",
+    "lead": "Discover what matters. Connect with exceptional talent. Plan, produce and deliver creative work — in one connected media ecosystem.",
+    "forCompanies": "For companies",
+    "forCreators": "For creators",
+    "micro": "One connected vision: Intelligence → Talent → Production → Distribution → Measurement",
+    "panelLabel": "SMIACT / PLATFORM VISION",
+    "listen": {
+      "cap": "01 / Listen",
+      "title": "Know the story.",
+      "text": "Monitor narratives, topics and media signals.",
+      "chip": "Intelligence vision"
+    },
+    "create": {
+      "cap": "02 / Create",
+      "title": "Move ideas into production.",
+      "text": "Brief projects, discover creators, manage proposals, coordinate tasks and approve deliverables.",
+      "chips": ["Existing workflow", "Project studio", "Creator network"]
+    },
+    "learn": {
+      "cap": "03 / Learn",
+      "title": "Measure impact.",
+      "text": "Connect future coverage and performance analytics to decisions.",
+      "chip": "Illustrative preview"
+    }
+  },
+  "platform": {
+    "eyebrow": "The platform",
+    "title": "Everything your media operation needs. Finally connected.",
+    "sub": "Too many disconnected tools. Too many handoffs. Not enough visibility. SMIACT brings creative talent and project execution into one workspace, with an ambitious roadmap for AI-powered intelligence and measurement.",
+    "cards": [
+      {
+        "title": "Understand the landscape",
+        "text": "Envisioned media listening, narrative analysis and strategic signals to inform smarter decisions.",
+        "status": "Planned intelligence module",
+        "planned": true
+      },
+      {
+        "title": "Build your creative team",
+        "text": "Discover talent by skills, language, experience and availability. Invite creators and review proposals.",
+        "status": "Available on the platform"
+      },
+      {
+        "title": "Orchestrate delivery",
+        "text": "Manage projects, budgets, tasks, feedback, files, permissions and approvals in a shared studio.",
+        "status": "Available on the platform"
+      }
+    ]
+  },
+  "audiences": {
+    "eyebrow": "Built for both sides of creative work",
+    "title": "Better work, together.",
+    "sub": "Two experiences. One shared production environment.",
+    "switchLabel": "Choose an experience",
+    "company": {
+      "tab": "For companies",
+      "tag": "For companies & institutions",
+      "title": "From brief to breakthrough.",
+      "text": "Build the right team, keep every project on track and bring clarity to creative operations.",
+      "items": [
+        "Discover talent by skills, availability and experience",
+        "Invite creators and compare proposals",
+        "Track budgets, tasks and project milestones",
+        "Review and approve final deliverables",
+        "Future: AI briefs, recommendations and impact reporting"
+      ],
+      "cta": "Explore company experience"
+    },
+    "creator": {
+      "tab": "For creators",
+      "tag": "For creators & media professionals",
+      "title": "Your talent deserves a bigger stage.",
+      "text": "Showcase your expertise, connect with projects and create with a professional team workspace.",
+      "items": [
+        "Build a profile with skills, languages and portfolio",
+        "Browse opportunities and receive invitations",
+        "Submit proposals and collaborate with clients",
+        "Manage tasks, files and production feedback",
+        "Future: AI-assisted proposals and creator workflows"
+      ],
+      "cta": "Explore creator experience"
+    },
+    "workspace": {
+      "eyebrow": "A connected workspace",
+      "rows": [
+        { "label": "Project brief", "value": "Ready" },
+        { "label": "Creator discovery", "value": "In progress" },
+        { "label": "Proposals", "value": "Review" },
+        { "label": "Production tasks", "value": "Active" },
+        { "label": "Deliverable approval", "value": "Next" }
+      ],
+      "note": "Illustrative project journey, not live account data."
+    }
+  },
+  "workflow": {
+    "eyebrow": "How SMIACT works",
+    "titleLine1": "One connected workflow.",
+    "titleAccent": "From signal to impact.",
+    "sub": "A complete vision built around a working project collaboration core. The labels distinguish existing functionality from planned modules.",
+    "current": "CURRENT",
+    "vision": "VISION",
+    "steps": [
+      { "title": "Listen & understand", "text": "Monitor topics, narratives and media signals.", "vision": true },
+      { "title": "Plan & brief", "text": "Define goals, budgets, dates and deliverables." },
+      { "title": "Discover & recruit", "text": "Find creators, invite talent, compare proposals." },
+      { "title": "Produce together", "text": "Collaborate through tasks, updates, files and chat." },
+      { "title": "Review & approve", "text": "Give feedback and validate content deliverables." },
+      { "title": "Distribute & amplify", "text": "Extend work across media and creator channels.", "vision": true },
+      { "title": "Measure & optimize", "text": "Connect coverage, response and campaign insights.", "vision": true }
+    ]
+  },
+  "intelligence": {
+    "eyebrow": "Media intelligence engine / product vision",
+    "titleLine1": "Don't just follow the conversation.",
+    "titleLine2": "Understand what moves it.",
+    "sub": "The proposed SMIACT Intelligence Engine is designed to turn fragmented media information into actionable strategic knowledge, with human review at the centre.",
+    "cards": [
+      { "title": "Media listening", "text": "Track relevant coverage, sources, topics and brand mentions." },
+      { "title": "AI narrative analysis", "text": "Summarize developments, cluster themes and surface emerging issues." },
+      { "title": "Signals & alerts", "text": "Spot relevant changes and support timely communications decisions." },
+      { "title": "Sentiment & context", "text": "Explore patterns in tone and discussion with transparent source review." },
+      { "title": "Campaign intelligence", "text": "Connect content initiatives to media coverage and audience response." },
+      { "title": "Intelligent reports", "text": "Produce summaries and recommendations for teams and stakeholders." }
+    ],
+    "notice": "Product vision: these intelligence functions are part of the SMIACT roadmap and are not available yet."
+  },
+  "concept": {
+    "eyebrow": "Interactive concept",
+    "titleLine1": "From a media signal",
+    "titleLine2": "to a creative brief.",
+    "sub": "Try a sample topic to see how the future intelligence-to-production experience could be structured. This is a static demonstration, not real media monitoring or AI output.",
+    "topicLabel": "Choose a sample monitoring topic",
+    "topicRow": "Topic",
+    "narrativeRow": "Emerging narrative",
+    "audienceRow": "Suggested audience",
+    "contentRow": "Suggested content",
+    "briefEyebrow": "Suggested creative brief / mock-up",
+    "chipReview": "Editorial review required",
+    "chipHuman": "Human-led production",
+    "micro": "Example outputs are prewritten for this prototype.",
+    "cta": "See production workflow",
+    "topics": [
+      {
+        "key": "tourism",
+        "name": "Sustainable tourism",
+        "narrative": "Authentic local experiences",
+        "audience": "Travel & culture audiences",
+        "content": "Short documentary",
+        "briefTitle": "Tell the stories behind sustainable travel.",
+        "briefBody": "Commission a short documentary series with local storytellers, supported by interviews and social-first cutdowns."
+      },
+      {
+        "key": "tech",
+        "name": "AI & digital skills",
+        "narrative": "Workforce transformation",
+        "audience": "Technology & education audiences",
+        "content": "Expert interview series",
+        "briefTitle": "Make digital transformation human.",
+        "briefBody": "Develop an interview-led series featuring educators, founders and professionals building practical AI skills."
+      },
+      {
+        "key": "culture",
+        "name": "Creative economy",
+        "narrative": "Independent creator growth",
+        "audience": "Culture & business audiences",
+        "content": "Creator spotlight series",
+        "briefTitle": "Put creative talent in the spotlight.",
+        "briefBody": "Create an editorial campaign featuring independent makers and the cultural value behind their work."
+      }
+    ]
+  },
+  "foundation": {
+    "eyebrow": "Our foundation",
+    "titleLine1": "Built on experience.",
+    "titleAccent": "Designed for what comes next.",
+    "sub": "SMIACT draws on experience in media innovation, collaborative journalism, digital learning and creator development. That experience informs a new vision for connected creative and media operations.",
+    "cards": [
+      { "title": "Media innovation", "text": "Experience informing technology-enabled journalism and media collaboration." },
+      { "title": "Creator development", "text": "A foundation in building capabilities and opportunities for digital professionals." },
+      { "title": "International perspective", "text": "An ambition to connect talent, organizations and creative work across markets." }
+    ]
+  },
+  "faq": {
+    "eyebrow": "Questions, answered",
+    "title": "Get to know SMIACT.",
+    "items": [
+      {
+        "q": "What is SMIACT?",
+        "a": "A platform connecting organizations and creative talent through project briefing, recruitment, collaboration and deliverable review, with a wider vision for AI-assisted media intelligence and measurement."
+      },
+      {
+        "q": "What can companies do today?",
+        "a": "Companies can create projects, discover creators, invite candidates, review proposals, coordinate work and approve deliverables."
+      },
+      {
+        "q": "What can creators do?",
+        "a": "Creators can maintain professional profiles, browse projects, respond to invitations, submit proposals and work within project studios."
+      },
+      {
+        "q": "Is the AI media monitoring engine already available?",
+        "a": "Not yet. The monitoring and intelligence engine is part of the product vision described on this page."
+      },
+      {
+        "q": "What is the ambassador role?",
+        "a": "Ambassadors can coordinate creator teams and initiate projects."
+      },
+      {
+        "q": "Is SMIACT available internationally?",
+        "a": "SMIACT is designed with an international audience in mind."
+      }
+    ]
+  },
+  "cta": {
+    "eyebrow": "The next generation of media infrastructure",
+    "titleLine1": "Intelligence creates opportunity.",
+    "titleLine2": "People create impact.",
+    "text": "Bring the right people, projects and insights together — and build what comes next.",
+    "primary": "Explore SMIACT",
+    "secondary": "Discover the platform"
+  },
+  "footer": {
+    "tagline": "From intelligence to impact. A connected future for media and creative work.",
+    "platform": "Platform",
+    "forCompanies": "For companies",
+    "forCreators": "For creators",
+    "howItWorks": "How it works",
+    "intelligence": "Media intelligence",
+    "company": "Company",
+    "foundation": "Our foundation",
+    "faq": "FAQ",
+    "login": "Log in",
+    "rights": "All rights reserved."
+  }
+}
